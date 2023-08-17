@@ -42,11 +42,6 @@ Esse projeto está sob a licença MIT.
 Faça o clone do repositório e acessar na pasta web
 
 ```bash
-# Clone o repositório
-git clone https://github.com/DenisRaineri/spacetime.git
-```
-
-```bash
 # Instalando as dependências
 npm i
 ```
